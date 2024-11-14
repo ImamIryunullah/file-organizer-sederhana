@@ -7,7 +7,7 @@ Copy code
 pip install tkinter
 Run the Python script to start organizing your files:
 Copy code
-python file_organizer_ui.py
+python fileorganizer.py
 Contributing:
 Feel free to fork this project and submit pull requests. Any improvements or bug fixes are welcome!
 
